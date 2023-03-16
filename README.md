@@ -1,1 +1,1 @@
-# daily_lecture
+# 강의 정리잘해라
